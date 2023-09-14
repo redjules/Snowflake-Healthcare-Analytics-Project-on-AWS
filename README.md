@@ -55,7 +55,9 @@ The simulation data is available for 71K patients for prediction purpose.
 # Tech Stack
 
 ➢ Tools: AWS Sagemaker, Snowflake
+
 ➢ Language: Python
+
 ➢ Libraries: snowflake-connector-python, snowflake-sqlalchemy, xgboost,
 pandas, numpy, scikit-learn
 
